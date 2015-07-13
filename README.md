@@ -64,7 +64,7 @@ Suggestions and contributions are welcome, please read the [contributing guideli
 * [**Introducing Dependency Injection** - Rob Allen at PHPNW13](https://www.youtube.com/watch?v=ElnqUIjLWVk) `[39:40]`
 * [**Don’t screw it up, how to build durable web APIs** - Alessandro Cinelli and Alessandro Nadalin at PHP Day 2014](https://vimeo.com/104905550) `[45:39]`
 * ✔ [**Beyond Design Patterns** - Anthony Ferrara at PHPNW14](https://www.youtube.com/watch?v=JV7fiM8r3nc) `[49:23]`
-* [**Principles of Agile Design** - Uncle Bob, not-PHP specifc](http://www.infoq.com/presentations/principles-agile-oo-design) `[29:35]`
+* ✔ [[**Principles of Agile Design** - Uncle Bob, not-PHP specifc](http://www.infoq.com/presentations/principles-agile-oo-design) `[29:35]`
 * ✔ [**Beyond Frameworks** - Stewart Stuart Herbert at PHP UK Conferences](https://vimeo.com/21145583) `[49:52]`
 
 [Back to top](#php-must-watch)
