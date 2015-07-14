@@ -59,7 +59,7 @@ Suggestions and contributions are welcome, please read the [contributing guideli
 * [**PHP Annotations: They Exist!** - Rafael Dohms at Laracon 2014](https://www.youtube.com/watch?v=oDVspbFgDCo) `[49:48]`
 * [**Aphorisms of API Design** - Larry Garfield at Forum PHP 2013](https://www.youtube.com/watch?v=NVcG8ZJdRYs) `[43:54]`
 * ✔ [**Asynchronous PHP** - Christopher Pitt at PHP CRAFT SouthAfrica 2014](https://www.youtube.com/watch?v=kcjSVab5EhE) `[47:39]`
-* [**GOTO Conference Keynote - Microservices** - Martin Fowler](https://www.youtube.com/watch?v=wgdBVIX9ifA) `[26:25]`
+* ✔ [**GOTO Conference Keynote - Microservices** - Martin Fowler](https://www.youtube.com/watch?v=wgdBVIX9ifA) `[26:25]`
 * ✔ [**Practical Refactoring** - Stefan Koopmanschap at PHPNW14](https://www.youtube.com/watch?v=Peoy8aHIEzc) `[52:27]`
 * [**Introducing Dependency Injection** - Rob Allen at PHPNW13](https://www.youtube.com/watch?v=ElnqUIjLWVk) `[39:40]`
 * [**Don’t screw it up, how to build durable web APIs** - Alessandro Cinelli and Alessandro Nadalin at PHP Day 2014](https://vimeo.com/104905550) `[45:39]`
