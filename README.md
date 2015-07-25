@@ -44,7 +44,7 @@ Suggestions and contributions are welcome, please read the [contributing guideli
 
 ###Architecture and Design
 * ✔ [**Inheritance, Polymorphism, & Testing** - Misko Hevery, Clean Code Talks 2008](https://www.youtube.com/watch?v=4F72VULWFvc) `[38:24]`
-* [**Global State & Singletons** - Misko Hevery, Clean Code Talks 2008](https://www.youtube.com/watch?v=-FRm3VPhseI) `[54:08]`
+* ✔ [**Global State & Singletons** - Misko Hevery, Clean Code Talks 2008](https://www.youtube.com/watch?v=-FRm3VPhseI) `[54:08]`
 * ✔ [**Don't be STUPID, Grasp SOLID** - Anthony Ferrara at PHPNW13](https://www.youtube.com/watch?v=KHBrDWIKW8Q) `[32:30]`
 * ✔ [**Hexagonal Architecture** - Chris Fidao at Laracon 2014](https://www.youtube.com/watch?v=6SBjKOwVq0o) `[38:43]`
 * [**Unbreakable Domain Models** - Mathias Verraes at PHP UK Conference 2014](https://www.youtube.com/watch?v=ZJ63ltuwMaE) `[1:03:25]`
