@@ -104,7 +104,7 @@ Suggestions and contributions are welcome, please read the [contributing guideli
 [Back to top](#php-must-watch)
 
 ###Frameworks
-* [**Silex Anatomy** - Igor Wiedler at PHP Benelux 2013](https://www.youtube.com/watch?v=9VUoIruQNMg) `[46:31]`
+* ✔ [**Silex Anatomy** - Igor Wiedler at PHP Benelux 2013](https://www.youtube.com/watch?v=9VUoIruQNMg) `[46:31]`
 * [**Standardization, the Symfony Way** - Fabien Potencier at Laracon 2013](https://www.youtube.com/watch?v=0erGiEm07b8) `[1:00:05]`
 * [**The State of Laravel** - Taylor Otwell at Laracon 2014](https://www.youtube.com/watch?v=eyDFr7wCIdE) `[1:00:17]`
 
