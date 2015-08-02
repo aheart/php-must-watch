@@ -47,10 +47,10 @@ Suggestions and contributions are welcome, please read the [contributing guideli
 * ✔ [**Global State & Singletons** - Misko Hevery, Clean Code Talks 2008](https://www.youtube.com/watch?v=-FRm3VPhseI) `[54:08]`
 * ✔ [**Don't be STUPID, Grasp SOLID** - Anthony Ferrara at PHPNW13](https://www.youtube.com/watch?v=KHBrDWIKW8Q) `[32:30]`
 * ✔ [**Hexagonal Architecture** - Chris Fidao at Laracon 2014](https://www.youtube.com/watch?v=6SBjKOwVq0o) `[38:43]`
-* [**Unbreakable Domain Models** - Mathias Verraes at PHP UK Conference 2014](https://www.youtube.com/watch?v=ZJ63ltuwMaE) `[1:03:25]`
+* ✔ [**Unbreakable Domain Models** - Mathias Verraes at PHP UK Conference 2014](https://www.youtube.com/watch?v=ZJ63ltuwMaE) `[1:03:25]`
 * [**Practical Event Sourcing** - Mathias Verraes at phpDay 2014](https://vimeo.com/104095245) `[43:38]`
 * [**Decoupling the Model from the Framework** - Mathias Verraes at Laracon 2014](https://www.youtube.com/watch?v=QaIGN_cTcc8) `[53:35]`
-* [**API Design: It's Not Rocket Surgery** - Dave Ingram at PHP UK 2013](https://www.youtube.com/watch?v=aoiaSkRCObY) `[36:40]`
+* ✔ [**API Design: It's Not Rocket Surgery** - Dave Ingram at PHP UK 2013](https://www.youtube.com/watch?v=aoiaSkRCObY) `[36:40]`
 * [**The Template Is Not The View: A Brief Introduction to Action-Domain-Responder** - Paul M. Jones at Nomad PHP](https://www.youtube.com/watch?v=rlrTyN0aqSk) `[12:56]`
 * [**Action-Domain-Responder** - Paul M. Jones](https://vimeo.com/106771285) `[52:33]`
 * [**Designing HTTP Interfaces And RESTful Web Services** - David Zuelke at SymfonyLive Paris 2012](https://www.youtube.com/watch?v=XzgCzjMdvRE) `[1:00:54]`
